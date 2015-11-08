@@ -1,6 +1,3 @@
-/**
- * Created by valera on 05.09.15.
- */
 App.factory('$map', function() {
     var me = this;
 
